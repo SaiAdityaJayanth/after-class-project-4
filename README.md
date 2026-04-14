@@ -3,49 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Get Familiar with Tables</title>
+    <title>Here I Add Media</title>
 </head>
 <body>
 
-    <h1>Get Familiar with Tables</h1>
+    <h1>Here I Add Media</h1>
 
-    <table border="1">
-        <caption>Student Marks Table</caption>
-        <thead>
-            <tr>
-                <th>Roll No</th>
-                <th>Name</th>
-                <th>Subject</th>
-                <th>Marks</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>101</td>
-                <td>Alice</td>
-                <td>Math</td>
-                <td>88</td>
-            </tr>
-            <tr>
-                <td>102</td>
-                <td>Bob</td>
-                <td>Science</td>
-                <td>92</td>
-            </tr>
-            <tr>
-                <td>103</td>
-                <td>Charlie</td>
-                <td>English</td>
-                <td>85</td>
-            </tr>
-            <tr>
-                <td>104</td>
-                <td>Diana</td>
-                <td>History</td>
-                <td>90</td>
-            </tr>
-        </tbody>
-    </table>
-
-</body>
+    <!-- Image Example -->
+    <h2>Image</h2>
+    <p>This is an example of an image added to the page:</p>
+    <img src="https://via.placeholder.com/300x200" alt="Sample Image" width="300" height="200">
 </html>
